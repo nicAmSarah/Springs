@@ -17,7 +17,7 @@ public class SarahspringApplication {
 	@GetMapping("/hello")
     public String hello() {
  
-		return "funciona pelo amor de Deus";
+		return "oie professor";
     }
 
 }
